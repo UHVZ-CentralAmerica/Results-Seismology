@@ -28,3 +28,6 @@ If `--recursive` is not added, the dependencies in Codes will not be downloaded.
 
     Selected primary C++ codes used for the seismic analysis part.
     Dependencies are: SAC, MariaDB, GMT, fftw3
+
+
+Questions about these materials can be sent to shuleyu@asu.edu
